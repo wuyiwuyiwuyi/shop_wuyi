@@ -1,0 +1,23 @@
+server:
+  ip: 192.168.96.128
+
+
+spring:
+  thymeleaf:
+    cache: false
+
+dubbo:
+  application:
+    name: back_manager
+  registry:
+    address: zookeeper://192.168.96.128:2181
+
+fdfs:
+  pool:
+    jmx-enabled: false
+  thumb-image:
+    height: 100
+    width: 100
+  tracker-list:
+     - 192.168.96.128:22122
+

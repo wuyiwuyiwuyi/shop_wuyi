@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="back_manager" />
+        <module name="goods_service" />
+        <module name="search_service" />
+        <module name="shop_commons" />
+        <module name="shop_entity" />
+        <module name="shop_front" />
+        <module name="shop_item" />
+        <module name="shop_search" />
+        <module name="shop_service" />
+        <module name="shop_service_api" />
+        <module name="shop_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="back_manager" target="1.8" />
+      <module name="goods_service" target="1.8" />
+      <module name="search_service" target="1.8" />
+      <module name="shop_commons" target="1.8" />
+      <module name="shop_entity" target="1.8" />
+      <module name="shop_front" target="1.8" />
+      <module name="shop_item" target="1.8" />
+      <module name="shop_search" target="1.8" />
+      <module name="shop_service" target="1.8" />
+      <module name="shop_service_api" target="1.8" />
+      <module name="shop_web" target="1.8" />
+      <module name="shop_wuyi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

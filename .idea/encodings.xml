@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_service/goods_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_service/search_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_service_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_web/back_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_web/shop_front" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_web/shop_item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop_web/shop_search" charset="UTF-8" />
+  </component>
+</project>

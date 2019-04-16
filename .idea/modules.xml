@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop_web/back_manager/back_manager.iml" filepath="$PROJECT_DIR$/shop_web/back_manager/back_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_service/goods_service/goods_service.iml" filepath="$PROJECT_DIR$/shop_service/goods_service/goods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_service/search_service/search_service.iml" filepath="$PROJECT_DIR$/shop_service/search_service/search_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_commons/shop_commons.iml" filepath="$PROJECT_DIR$/shop_commons/shop_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_entity/shop_entity.iml" filepath="$PROJECT_DIR$/shop_entity/shop_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_front/shop_front.iml" filepath="$PROJECT_DIR$/shop_web/shop_front/shop_front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_item/shop_item.iml" filepath="$PROJECT_DIR$/shop_web/shop_item/shop_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" filepath="$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_service/shop_service.iml" filepath="$PROJECT_DIR$/shop_service/shop_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_service_api/shop_service_api.iml" filepath="$PROJECT_DIR$/shop_service_api/shop_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_web.iml" filepath="$PROJECT_DIR$/shop_web/shop_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_wuyi.iml" filepath="$PROJECT_DIR$/shop_wuyi.iml" />
+    </modules>
+  </component>
+</project>

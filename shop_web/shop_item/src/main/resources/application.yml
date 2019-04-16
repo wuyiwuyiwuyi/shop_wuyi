@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+
+dubbo:
+  application:
+    name: shop_item
+  registry:
+    address: zookeeper://192.168.96.128:2181
+  consumer:
+    check: false
